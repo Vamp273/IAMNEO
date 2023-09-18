@@ -1,11 +1,7 @@
 /*
 Problem Statement
 
-
-
 You are developing a data analysis tool for a statistics company. The company needs a program that can analyze the frequency of elements in an array of integers. Your task is to write a program that takes user input for the size of the array and the elements of the array. The program should calculate the frequency of each element in the array and display the elements along with their frequencies.
-
-
 
 Note: This kind of question will be helpful in clearing AMCAT tests.
 
